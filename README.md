@@ -1,8 +1,8 @@
 # PA1-Programming-Assignment
 
-👨‍💻 Author: Noah Oliver H. Nazal  
-📅 Date: 09/16/2025  
-📚 Course: ECE2112 – Programming Assignment  
+Author: Noah Oliver H. Nazal  
+Date: 09/16/2025  
+Course: ECE2112 – Programming Assignment  
 
 # Software(s) Used:
 - Anaconda Navigator  
@@ -13,3 +13,9 @@ About: Contains solutions for PA 1 (3 Problems)
 
 # Languages Used
 - Pyhton (100%)
+
+# Version History
+V1.0 ([09-14-2025]) – Initial Coding for PA1  
+V1.1 ([09-15-2025]) - Creation of Repository Along with Read Me file
+V1.2 ([09-16-2025]) – Finalization of Coding PA1 and Edited Documentation, Code Formatting, and Design in the README File  
+
