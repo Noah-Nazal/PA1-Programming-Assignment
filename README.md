@@ -45,3 +45,15 @@ Output: "ahno"
 
 # Output
     ahno
+# Problem 2: Emoticon Problem
+Change specific words into emoticons from user input
+
+Mappings Used:
+
+"smile" → :)
+
+"grin" → :D
+
+"sad" → :((
+
+"mad" → >:(
