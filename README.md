@@ -43,7 +43,7 @@ Output: "ahno"
 
     print(alphabet("noah"))
 
-# Output
+# Output (example)
     ahno
 # Problem 2: Emoticon Problem
 Change specific words into emoticons from user input
@@ -97,3 +97,6 @@ Mappings Used:
     # Example:
     x = input("Enter a sentence: ")
     print(emoticon(x))
+
+# Output (example)
+I am :(( but I try to :)
