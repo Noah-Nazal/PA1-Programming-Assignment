@@ -7,3 +7,9 @@
 # Software(s) Used:
 - Anaconda Navigator  
 - Jupyter Notebook  
+
+# Repoistory Information
+About: Contains solutions for PA 1 (3 Problems)  
+
+# Languages Used
+- Pyhton (100%)
