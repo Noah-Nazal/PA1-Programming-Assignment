@@ -23,8 +23,22 @@ V1.2 ([09-16-2025]) – Finalization of Coding PA1 and Edited Documentation, Cod
 
 # Problem 1: Alphabet Soup Problem
 Takes input of string from user and returns them in alphabetical order  
+
 Example:  
 
 Input: "noah"  
 
 Output: "ahno"  
+
+# Problem 1: ALPHABET SOUP PROBLEM
+# Input
+# Input of word
+x = input("Enter a string:")
+
+# Sorting word alphabetically
+x_sorted = sorted(x)
+
+# Output of sorted word
+alpha_sorted = "".join(x_sorted)
+print(alpha_sorted)
+
