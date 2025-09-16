@@ -57,3 +57,43 @@ Mappings Used:
 "sad" → :((
 
 "mad" → >:(
+
+# Problem 2: EMOTICON PROBLEM
+# Input
+    def emoticon(sentence):
+        # Make dictionary for word-emoticon equivalents
+        replacements = {
+            "smile": ":)",
+            "grin": ":D",
+            "sad": ":((",
+            "mad": ">:("
+        }
+
+        # Temporary storage of characters
+        word = ""
+        result = ""
+
+        for ch in sentence:
+            if ch != " ":
+                word += ch
+            else:
+                # Process word when space is found
+                if word in replacements:
+                    result += replacements[word]
+                else:
+                    result += word
+                result += " "
+                word = ""
+
+        # After loop, process last word
+        if word != "":
+            if word in replacements:
+                result += replacements[word]
+            else:
+                result += word
+
+        return result
+
+    # Example:
+    x = input("Enter a sentence: ")
+    print(emoticon(x))
