@@ -31,14 +31,9 @@ Input: "noah"
 Output: "ahno"  
 
 # Problem 1: ALPHABET SOUP PROBLEM
-# Input
-# Input of word
+    # # Input of word
 x = input("Enter a string:")
+    # Sort the characters in the input string 'x'
+    return ''.join(sorted(x))
 
-# Sorting word alphabetically
-x_sorted = sorted(x)
-
-# Output of sorted word
-alpha_sorted = "".join(x_sorted)
-print(alpha_sorted)
-
+print(alphabet("joshua"))
