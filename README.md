@@ -107,6 +107,7 @@ Unpack a list into first, middle, and last elements
 lst = [1, 2, 3, 4, 5, 6]
 
 # Problem 3: UNPACKING LIST PROBLEM
+# Input
     # Starting list
     writeyourcodehere = [1, 2, 3, 4, 5, 6]
 
@@ -117,3 +118,8 @@ lst = [1, 2, 3, 4, 5, 6]
     print("first:", first)
     print("middle:", middle)
     print("last:", last)
+
+# Output
+first: 1  
+middle: [2, 3, 4, 5]  
+last: 6  
