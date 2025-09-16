@@ -99,7 +99,7 @@ Mappings Used:
     print(emoticon(x))
 
 # Output (example)
-I am :(( but I try to :)
+    I am :(( but I try to :)
 
 # Problem 3: Unpacking List Problem
 Unpack a list into first, middle, and last elements
@@ -120,6 +120,6 @@ lst = [1, 2, 3, 4, 5, 6]
     print("last:", last)
 
 # Output
-first: 1  
-middle: [2, 3, 4, 5]  
-last: 6  
+    first: 1  
+    middle: [2, 3, 4, 5]  
+    last: 6  
