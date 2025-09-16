@@ -31,6 +31,7 @@ Input: "noah"
 Output: "ahno"  
 
 # Problem 1: ALPHABET SOUP PROBLEM
+# Input
     # Input of word
     x = input("Enter a string:")
 
@@ -39,4 +40,8 @@ Output: "ahno"
 
     # Output of sorted word
     alpha_sorted = "".join(x_sorted)
-    print(alpha_sorted)
+
+    print(alphabet("noah"))
+
+# Output
+    ahno
