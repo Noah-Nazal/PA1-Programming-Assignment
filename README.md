@@ -16,8 +16,15 @@ About: Contains solutions for PA 1 (3 Problems)
 
 # Version History
 V1.0 ([09-14-2025]) – Initial Coding for PA1  
+
 V1.1 ([09-15-2025]) - Creation of Repository Along with Read Me file  
+
 V1.2 ([09-16-2025]) – Finalization of Coding PA1 and Edited Documentation, Code Formatting, and Design in the README File  
 
 # Problem 1: Alphabet Soup Problem
 Takes input of string from user and returns them in alphabetical order  
+Example:  
+
+Input: "noah"  
+
+Output: "ahno"  
